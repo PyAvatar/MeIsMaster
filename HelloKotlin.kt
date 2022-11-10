@@ -10,4 +10,7 @@ fun main() {
     println(B);
     println(C);
     
+    println(A);
+    println(B);
+    println(C);
 }
